@@ -1,5 +1,7 @@
 # nextgeoss-training-portal-configurations
-NextGEOSS second training - Configuration of community portals using geospatial web services
+NextGEOSS second training, Tuesday 11th September, Geneva
+
+Topic 3 - Configuration of community portals using geospatial web services
 
 Part 1 will be related to CKAN
 
