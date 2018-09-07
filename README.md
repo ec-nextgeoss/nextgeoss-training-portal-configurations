@@ -1,5 +1,5 @@
 # nextgeoss-training-portal-configurations
-NextGEOSS second training, Tuesday 11th September, Geneva
+NextGEOSS second training, Tuesday 11th September 2018, Geneva
 
 Topic 3 - Configuration of community portals using geospatial web services
 
